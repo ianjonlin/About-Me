@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ianjonlin01
 - 👀 I’m interested in nothing really.
-- 🌱 I’m currently learning Kotlin, Php, Java and C, Bit of Python
-- 🐤 Master of noobs of noobs
+- 🌱 I’m currently learning Kotlin, Php, Java and C, Bit of Python.
+- 🐤 Master of noobs of noobs.
